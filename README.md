@@ -3,11 +3,17 @@
 ## Salesforce QA Analyst
 
 💻My experience is mostly based on **manual black box funtional testing**.
+
 💡Currently working for a **Salesforce integration project**, that allows me to be present in all CRM cycle.
+
 💾 I’ve been part of **finance project** as well, at the Galicia Bank, as QA Analyst for a desktop app, that provided the buy and sell of bonds, stocks, primary tenders for wholesale clients, also public and private bonds Accountancy.
+
 🔎**Enthusiastic** about companies that are committed to creating a teamwork culture, training and promoting job growth.
+
 📚**Knowledge about:** Salesforce, BBDD (SQL Server, DBeaver), SAP, Trello, Jira, HP ALM, TestRail.
+
 ✈️ Relocation is not a problem to me  (Italian nationality for European Union).
+
 
 ## Job experience:
 
